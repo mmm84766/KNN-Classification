@@ -17,5 +17,5 @@ Its very useful repo to learn how to implemnet KNN Algorithem in machine learnin
 
 I define evaerthing by comment in Python source-code.
 
-I used Libaray in this project like Numpy, pandas, matplotlib, Scikit-Learn
+I used Library in this project like Numpy, pandas, matplotlib, Scikit-Learn
 
